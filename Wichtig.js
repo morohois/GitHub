@@ -8,3 +8,4 @@ console.log("Lösche alles");
 
 
 //Ich schreib jetzt einfach mal was dazu!
+//Jooooooo hier ist ne Änderung
